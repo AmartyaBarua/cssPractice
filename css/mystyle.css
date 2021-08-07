@@ -1,0 +1,24 @@
+* {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roma", serif;
+  line-height: 1em;
+}
+
+h1 {
+  color: crimson;
+}
+
+#p1 {
+  color: darkolivegreen;
+}
+
+#p2 {
+  color: darkslateblue;
+}
+
+.class1 {
+  color: deepskyblue;
+}
+
+.class2 {
+  font-style: italic;
+}
